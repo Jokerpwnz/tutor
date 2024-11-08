@@ -9,4 +9,3 @@ echo "hello6";
 echo "hello7";
 echo "hello8";
 echo "hello9";
-echo "hello10";
